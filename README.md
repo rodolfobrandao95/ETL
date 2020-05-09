@@ -5,7 +5,7 @@
 
 ___
 
-As an objective, informations about the __number of beneficiaries__, as well as the __amount__ (in R$), used by the program, will be consolidated.
+As an objective, informations about the __number of beneficiaries__, as well the __amount__ (in R$), used by the program, will be consolidated.
 
 The modeling need in this scenario is to allow these metrics to be observed in two aspects:
 * __Time Dimension__: monthly, bimonthly, quarterly and half-yearly
