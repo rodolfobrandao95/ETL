@@ -13,7 +13,7 @@ The modeling need in this scenario is to allow these metrics to be observed in t
 
 ___
 
-In order to get the data from the _Bolsa Família_ program (per month), we'll use the following URI:\
+In order to get the data from the Bolsa Família program, we'll use the following URI (which provides informations per month):\
 http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno=201901&codigoIbge=5300108&pagina=1
 
 ```json
