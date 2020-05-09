@@ -1,0 +1,23 @@
+[
+    {
+        "id": 84302228,
+        "dataReferencia": "01/01/2019",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4420966.0,
+        "quantidadeBeneficiados": 30375
+    }
+]
