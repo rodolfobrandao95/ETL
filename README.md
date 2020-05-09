@@ -5,16 +5,16 @@
 
 ___
 
-As an objective, informations about the _number of beneficiaries_, as well as the _total amount_ (in R$), used by the program, will be consolidated.
+As an objective, informations about the __number of beneficiaries__, as well as the __amount__ (in R$), used by the program, will be consolidated.
 
-The modeling need is to allow these metrics to be observed in two aspects:
+The modeling need in this scenario is to allow these metrics to be observed in two aspects:
 * __Time Dimension__: monthly, bimonthly, quarterly and half-yearly
 * __City Dimension__: city, state and region
 
-The _Bolsa Família_ program information can be obtained by the following URI:\
-http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno=201901&codigoIbge=5300108&pagina=1
+___
 
-And as response, we get the following JSON:
+In order to get the data from the _Bolsa Família_ program (per month), we'll use the following URI:\
+http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno=201901&codigoIbge=5300108&pagina=1
 
 ```json
 [
@@ -41,6 +41,6 @@ And as response, we get the following JSON:
     }
 ]
 ```
-> The illustrated JSON above is about the city of Brasília, from 01/01/2019.
+> The illustrated JSON above represents the response we get from the API. The information shown is about the city of Brasília, from 01/01/2019.
 
-The given URI enables requests by two params: __date__ (YYYYMM) and __IBGE code__ (state code + city code), which can be obtained from the .csv file contained in this project.
+The given URI enables requests by passing two paramameters: __mesAno__ (YYYYMM) and __codigoIbge__ (state code concatenated with city code), which can be obtained from the provided file _municipios_IBGE.csv_.
