@@ -1,5 +1,4 @@
 import json
-import pandas as pd
 import requests as r
 
 
@@ -14,15 +13,6 @@ def consume_api(year, month, state_code, city_code, save_path):
             json.dump(temp, output, ensure_ascii=False)
 
     return response.status_code
-
-
-def read_xls(file_path, columns=[]):
-    df = pd.read_excel(file_path)
-
-    if len(columns) > 0:
-        df = [df[col] for col in columns]
-
-    return df
 
 
 # Main:
