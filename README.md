@@ -1,7 +1,9 @@
 # Extract, Transform, Load
-#### In this repository, I intend to demonstrate how multi dimensional data modeling for Data Warehouse and ETL process works by applying it manually.
 
-#### For this sample, it will be used the _Bolsa Família_ program data, provided by the brazilian government's transparency [REST API](http://www.transparencia.gov.br/swagger-ui.html).
+## Presentation
+In this repository, I intend to demonstrate how ETL process and multi dimensional data modeling for Data Warehouse works by applying it manually.
+
+For this sample, it will be used the _Bolsa Família_ program data, provided by the brazilian government's transparency [REST API](http://www.transparencia.gov.br/swagger-ui.html).
 
 ___
 
