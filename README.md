@@ -5,17 +5,15 @@ In this repository, I intend to demonstrate how ETL process and multi dimensiona
 
 For this sample, it will be used the _Bolsa Família_ program data, provided by the brazilian government's transparency [REST API](http://www.transparencia.gov.br/swagger-ui.html).
 
-___
-
+## Motivation
 As an objective, informations about the __number of beneficiaries__, as well the __amount__ (in R$), used by the program, will be consolidated.
 
 The modeling need in this scenario is to allow these metrics to be observed in two aspects:
 * __Time Dimension__: monthly, bimonthly, quarterly and half-yearly
 * __City Dimension__: city, state and region
 
-___
-
-In order to get the data from the Bolsa Família program, we'll use the following URI (which provides informations per month):\
+## Data gathering
+In order to collect information from the Bolsa Família program, the following URI will be used (which provides data per month):\
 http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno=201901&codigoIbge=5300108&pagina=1
 
 ```json
