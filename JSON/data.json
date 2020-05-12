@@ -1,7 +1,2023 @@
 [
     {
-        "id": 84302228,
+        "id": 92204072,
+        "dataReferencia": "01/01/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 48518.0,
+        "quantidadeBeneficiados": 351
+    },
+    {
+        "id": 93004086,
+        "dataReferencia": "01/02/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 48222.0,
+        "quantidadeBeneficiados": 347
+    },
+    {
+        "id": 94904298,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 46918.0,
+        "quantidadeBeneficiados": 338
+    },
+    {
+        "id": 103901871,
+        "dataReferencia": "01/04/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 46863.0,
+        "quantidadeBeneficiados": 340
+    },
+    {
+        "id": 105201948,
+        "dataReferencia": "01/05/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 46755.0,
+        "quantidadeBeneficiados": 341
+    },
+    {
+        "id": 100102027,
+        "dataReferencia": "01/06/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 47213.0,
+        "quantidadeBeneficiados": 342
+    },
+    {
+        "id": 100102171,
+        "dataReferencia": "01/07/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 53058.0,
+        "quantidadeBeneficiados": 339
+    },
+    {
+        "id": 92902751,
+        "dataReferencia": "01/08/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 53120.0,
+        "quantidadeBeneficiados": 340
+    },
+    {
+        "id": 97903405,
+        "dataReferencia": "01/09/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 55317.0,
+        "quantidadeBeneficiados": 363
+    },
+    {
+        "id": 99903694,
+        "dataReferencia": "01/10/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 55242.0,
+        "quantidadeBeneficiados": 360
+    },
+    {
+        "id": 99703800,
+        "dataReferencia": "01/11/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 54352.0,
+        "quantidadeBeneficiados": 354
+    },
+    {
+        "id": 101004342,
+        "dataReferencia": "01/12/2016",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 56687.0,
+        "quantidadeBeneficiados": 367
+    },
+    {
+        "id": 96304292,
+        "dataReferencia": "01/01/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 55291.0,
+        "quantidadeBeneficiados": 365
+    },
+    {
+        "id": 99404960,
+        "dataReferencia": "01/02/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 53935.0,
+        "quantidadeBeneficiados": 371
+    },
+    {
+        "id": 97704834,
+        "dataReferencia": "01/03/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 53420.0,
+        "quantidadeBeneficiados": 372
+    },
+    {
+        "id": 92801519,
+        "dataReferencia": "01/04/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 56019.0,
+        "quantidadeBeneficiados": 392
+    },
+    {
+        "id": 103602064,
+        "dataReferencia": "01/05/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 56794.0,
+        "quantidadeBeneficiados": 391
+    },
+    {
+        "id": 102502608,
+        "dataReferencia": "01/06/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 57196.0,
+        "quantidadeBeneficiados": 394
+    },
+    {
+        "id": 93102789,
+        "dataReferencia": "01/07/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 56031.0,
+        "quantidadeBeneficiados": 380
+    },
+    {
+        "id": 105103343,
+        "dataReferencia": "01/08/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60529.0,
+        "quantidadeBeneficiados": 404
+    },
+    {
+        "id": 101803344,
+        "dataReferencia": "01/09/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59786.0,
+        "quantidadeBeneficiados": 406
+    },
+    {
+        "id": 92603616,
+        "dataReferencia": "01/10/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59208.0,
+        "quantidadeBeneficiados": 406
+    },
+    {
+        "id": 99204121,
+        "dataReferencia": "01/11/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59830.0,
+        "quantidadeBeneficiados": 406
+    },
+    {
+        "id": 91804729,
+        "dataReferencia": "01/12/2017",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60127.0,
+        "quantidadeBeneficiados": 409
+    },
+    {
+        "id": 95504499,
+        "dataReferencia": "01/01/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59898.0,
+        "quantidadeBeneficiados": 410
+    },
+    {
+        "id": 98004616,
+        "dataReferencia": "01/02/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59696.0,
+        "quantidadeBeneficiados": 410
+    },
+    {
+        "id": 98701816,
+        "dataReferencia": "01/03/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59906.0,
+        "quantidadeBeneficiados": 411
+    },
+    {
+        "id": 96201926,
+        "dataReferencia": "01/04/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 58346.0,
+        "quantidadeBeneficiados": 400
+    },
+    {
+        "id": 91802597,
+        "dataReferencia": "01/05/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 58898.0,
+        "quantidadeBeneficiados": 400
+    },
+    {
+        "id": 100602777,
+        "dataReferencia": "01/06/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 57255.0,
+        "quantidadeBeneficiados": 394
+    },
+    {
+        "id": 105403104,
+        "dataReferencia": "01/07/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60324.0,
+        "quantidadeBeneficiados": 390
+    },
+    {
+        "id": 101103382,
+        "dataReferencia": "01/08/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60852.0,
+        "quantidadeBeneficiados": 391
+    },
+    {
+        "id": 94703651,
+        "dataReferencia": "01/09/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59853.0,
+        "quantidadeBeneficiados": 384
+    },
+    {
+        "id": 96204025,
+        "dataReferencia": "01/10/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59671.0,
+        "quantidadeBeneficiados": 384
+    },
+    {
+        "id": 93504329,
+        "dataReferencia": "01/11/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59688.0,
+        "quantidadeBeneficiados": 386
+    },
+    {
+        "id": 95105096,
+        "dataReferencia": "01/12/2018",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59472.0,
+        "quantidadeBeneficiados": 388
+    },
+    {
+        "id": 99704425,
         "dataReferencia": "01/01/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 58641.0,
+        "quantidadeBeneficiados": 382
+    },
+    {
+        "id": 104301919,
+        "dataReferencia": "01/02/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60887.0,
+        "quantidadeBeneficiados": 384
+    },
+    {
+        "id": 104701902,
+        "dataReferencia": "01/03/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59649.0,
+        "quantidadeBeneficiados": 383
+    },
+    {
+        "id": 97502356,
+        "dataReferencia": "01/04/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 61588.0,
+        "quantidadeBeneficiados": 389
+    },
+    {
+        "id": 103702603,
+        "dataReferencia": "01/05/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 63608.0,
+        "quantidadeBeneficiados": 394
+    },
+    {
+        "id": 97403235,
+        "dataReferencia": "01/06/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 61013.0,
+        "quantidadeBeneficiados": 382
+    },
+    {
+        "id": 98703321,
+        "dataReferencia": "01/07/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 61240.0,
+        "quantidadeBeneficiados": 379
+    },
+    {
+        "id": 95703423,
+        "dataReferencia": "01/08/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60152.0,
+        "quantidadeBeneficiados": 377
+    },
+    {
+        "id": 100303909,
+        "dataReferencia": "01/09/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60657.0,
+        "quantidadeBeneficiados": 373
+    },
+    {
+        "id": 97904583,
+        "dataReferencia": "01/10/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60262.0,
+        "quantidadeBeneficiados": 373
+    },
+    {
+        "id": 93104799,
+        "dataReferencia": "01/11/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 59447.0,
+        "quantidadeBeneficiados": 367
+    },
+    {
+        "id": 102401521,
+        "dataReferencia": "01/12/2019",
+        "municipio": {
+            "codigoIBGE": "2800100",
+            "nomeIBGE": "AMPARO DE SÃO FRANCISCO",
+            "nomeIBGEsemAcento": "AMPARO DE SAO FRANCISCO",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 60264.0,
+        "quantidadeBeneficiados": 369
+    },
+    {
+        "id": 95504498,
+        "dataReferencia": "01/01/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 383854.0,
+        "quantidadeBeneficiados": 2757
+    },
+    {
+        "id": 98004615,
+        "dataReferencia": "01/02/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 381112.0,
+        "quantidadeBeneficiados": 2749
+    },
+    {
+        "id": 98701815,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 375512.0,
+        "quantidadeBeneficiados": 2729
+    },
+    {
+        "id": 96201925,
+        "dataReferencia": "01/04/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 377551.0,
+        "quantidadeBeneficiados": 2739
+    },
+    {
+        "id": 91802596,
+        "dataReferencia": "01/05/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 378680.0,
+        "quantidadeBeneficiados": 2729
+    },
+    {
+        "id": 100602776,
+        "dataReferencia": "01/06/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 378530.0,
+        "quantidadeBeneficiados": 2735
+    },
+    {
+        "id": 105403103,
+        "dataReferencia": "01/07/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 434419.0,
+        "quantidadeBeneficiados": 2816
+    },
+    {
+        "id": 101103381,
+        "dataReferencia": "01/08/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 432685.0,
+        "quantidadeBeneficiados": 2811
+    },
+    {
+        "id": 94703650,
+        "dataReferencia": "01/09/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 435190.0,
+        "quantidadeBeneficiados": 2870
+    },
+    {
+        "id": 96204024,
+        "dataReferencia": "01/10/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 442362.0,
+        "quantidadeBeneficiados": 2923
+    },
+    {
+        "id": 93504328,
+        "dataReferencia": "01/11/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 437727.0,
+        "quantidadeBeneficiados": 2872
+    },
+    {
+        "id": 95105095,
+        "dataReferencia": "01/12/2016",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 427576.0,
+        "quantidadeBeneficiados": 2855
+    },
+    {
+        "id": 99704424,
+        "dataReferencia": "01/01/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 415072.0,
+        "quantidadeBeneficiados": 2826
+    },
+    {
+        "id": 104301918,
+        "dataReferencia": "01/02/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 417050.0,
+        "quantidadeBeneficiados": 2843
+    },
+    {
+        "id": 104701901,
+        "dataReferencia": "01/03/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 416757.0,
+        "quantidadeBeneficiados": 2840
+    },
+    {
+        "id": 97502355,
+        "dataReferencia": "01/04/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 414714.0,
+        "quantidadeBeneficiados": 2817
+    },
+    {
+        "id": 103702602,
+        "dataReferencia": "01/05/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 414324.0,
+        "quantidadeBeneficiados": 2801
+    },
+    {
+        "id": 97403234,
+        "dataReferencia": "01/06/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 413934.0,
+        "quantidadeBeneficiados": 2824
+    },
+    {
+        "id": 98703320,
+        "dataReferencia": "01/07/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 399356.0,
+        "quantidadeBeneficiados": 2705
+    },
+    {
+        "id": 95703422,
+        "dataReferencia": "01/08/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 412767.0,
+        "quantidadeBeneficiados": 2833
+    },
+    {
+        "id": 100303908,
+        "dataReferencia": "01/09/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 402726.0,
+        "quantidadeBeneficiados": 2768
+    },
+    {
+        "id": 97904582,
+        "dataReferencia": "01/10/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 405893.0,
+        "quantidadeBeneficiados": 2790
+    },
+    {
+        "id": 93104798,
+        "dataReferencia": "01/11/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 409218.0,
+        "quantidadeBeneficiados": 2813
+    },
+    {
+        "id": 102401520,
+        "dataReferencia": "01/12/2017",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 408756.0,
+        "quantidadeBeneficiados": 2813
+    },
+    {
+        "id": 93701500,
+        "dataReferencia": "01/01/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 406731.0,
+        "quantidadeBeneficiados": 2826
+    },
+    {
+        "id": 91202111,
+        "dataReferencia": "01/02/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 409134.0,
+        "quantidadeBeneficiados": 2859
+    },
+    {
+        "id": 103102533,
+        "dataReferencia": "01/03/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 410458.0,
+        "quantidadeBeneficiados": 2871
+    },
+    {
+        "id": 95602637,
+        "dataReferencia": "01/04/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 408823.0,
+        "quantidadeBeneficiados": 2850
+    },
+    {
+        "id": 93102779,
+        "dataReferencia": "01/05/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 409784.0,
+        "quantidadeBeneficiados": 2856
+    },
+    {
+        "id": 99003797,
+        "dataReferencia": "01/06/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 407228.0,
+        "quantidadeBeneficiados": 2829
+    },
+    {
+        "id": 93003764,
+        "dataReferencia": "01/07/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 432424.0,
+        "quantidadeBeneficiados": 2828
+    },
+    {
+        "id": 102703930,
+        "dataReferencia": "01/08/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 433005.0,
+        "quantidadeBeneficiados": 2844
+    },
+    {
+        "id": 95304235,
+        "dataReferencia": "01/09/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 431164.0,
+        "quantidadeBeneficiados": 2826
+    },
+    {
+        "id": 97504509,
+        "dataReferencia": "01/10/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 433216.0,
+        "quantidadeBeneficiados": 2837
+    },
+    {
+        "id": 93901441,
+        "dataReferencia": "01/11/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 437543.0,
+        "quantidadeBeneficiados": 2853
+    },
+    {
+        "id": 92202092,
+        "dataReferencia": "01/12/2018",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 434995.0,
+        "quantidadeBeneficiados": 2829
+    },
+    {
+        "id": 98701808,
+        "dataReferencia": "01/01/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 423492.0,
+        "quantidadeBeneficiados": 2759
+    },
+    {
+        "id": 100402074,
+        "dataReferencia": "01/02/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 425229.0,
+        "quantidadeBeneficiados": 2767
+    },
+    {
+        "id": 103602865,
+        "dataReferencia": "01/03/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 427794.0,
+        "quantidadeBeneficiados": 2779
+    },
+    {
+        "id": 102402878,
+        "dataReferencia": "01/04/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 431569.0,
+        "quantidadeBeneficiados": 2777
+    },
+    {
+        "id": 97503106,
+        "dataReferencia": "01/05/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 432918.0,
+        "quantidadeBeneficiados": 2787
+    },
+    {
+        "id": 103203667,
+        "dataReferencia": "01/06/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 428949.0,
+        "quantidadeBeneficiados": 2758
+    },
+    {
+        "id": 98803985,
+        "dataReferencia": "01/07/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 427471.0,
+        "quantidadeBeneficiados": 2737
+    },
+    {
+        "id": 99304238,
+        "dataReferencia": "01/08/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 427471.0,
+        "quantidadeBeneficiados": 2730
+    },
+    {
+        "id": 99104701,
+        "dataReferencia": "01/09/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 421677.0,
+        "quantidadeBeneficiados": 2683
+    },
+    {
+        "id": 102101721,
+        "dataReferencia": "01/10/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 422396.0,
+        "quantidadeBeneficiados": 2676
+    },
+    {
+        "id": 92901862,
+        "dataReferencia": "01/11/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 414952.0,
+        "quantidadeBeneficiados": 2624
+    },
+    {
+        "id": 95102250,
+        "dataReferencia": "01/12/2019",
+        "municipio": {
+            "codigoIBGE": "2800209",
+            "nomeIBGE": "AQUIDABÃ",
+            "nomeIBGEsemAcento": "AQUIDABA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 415891.0,
+        "quantidadeBeneficiados": 2623
+    },
+    {
+        "id": 103503490,
+        "dataReferencia": "01/01/2016",
         "municipio": {
             "codigoIBGE": "2800308",
             "nomeIBGE": "ARACAJU",
@@ -17,7 +2033,1288 @@
             "descricao": "Bolsa Família",
             "descricaoDetalhada": "Bolsa Família"
         },
-        "valor": 4420966.0,
-        "quantidadeBeneficiados": 30375
+        "valor": 4783718.0,
+        "quantidadeBeneficiados": 35917
+    },
+    {
+        "id": 105403940,
+        "dataReferencia": "01/02/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4731978.0,
+        "quantidadeBeneficiados": 35836
+    },
+    {
+        "id": 91303926,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4528386.0,
+        "quantidadeBeneficiados": 34945
+    },
+    {
+        "id": 104403848,
+        "dataReferencia": "01/04/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4524599.0,
+        "quantidadeBeneficiados": 34943
+    },
+    {
+        "id": 93504618,
+        "dataReferencia": "01/05/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4498888.0,
+        "quantidadeBeneficiados": 34682
+    },
+    {
+        "id": 100804796,
+        "dataReferencia": "01/06/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4454822.0,
+        "quantidadeBeneficiados": 34383
+    },
+    {
+        "id": 102701924,
+        "dataReferencia": "01/07/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 5060555.0,
+        "quantidadeBeneficiados": 34889
+    },
+    {
+        "id": 99102514,
+        "dataReferencia": "01/08/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 5052796.0,
+        "quantidadeBeneficiados": 34723
+    },
+    {
+        "id": 94702472,
+        "dataReferencia": "01/09/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 5000811.0,
+        "quantidadeBeneficiados": 34897
+    },
+    {
+        "id": 94902775,
+        "dataReferencia": "01/10/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 5054590.0,
+        "quantidadeBeneficiados": 35356
+    },
+    {
+        "id": 104502930,
+        "dataReferencia": "01/11/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4966178.0,
+        "quantidadeBeneficiados": 34501
+    },
+    {
+        "id": 102904021,
+        "dataReferencia": "01/12/2016",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4778772.0,
+        "quantidadeBeneficiados": 34145
+    },
+    {
+        "id": 93203681,
+        "dataReferencia": "01/01/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4499685.0,
+        "quantidadeBeneficiados": 33130
+    },
+    {
+        "id": 104303988,
+        "dataReferencia": "01/02/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4544428.0,
+        "quantidadeBeneficiados": 33244
+    },
+    {
+        "id": 104703851,
+        "dataReferencia": "01/03/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4446531.0,
+        "quantidadeBeneficiados": 32974
+    },
+    {
+        "id": 97704594,
+        "dataReferencia": "01/04/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4418175.0,
+        "quantidadeBeneficiados": 32676
+    },
+    {
+        "id": 103401668,
+        "dataReferencia": "01/05/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4358633.0,
+        "quantidadeBeneficiados": 32120
+    },
+    {
+        "id": 102201873,
+        "dataReferencia": "01/06/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4303064.0,
+        "quantidadeBeneficiados": 31867
+    },
+    {
+        "id": 95102167,
+        "dataReferencia": "01/07/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4185947.0,
+        "quantidadeBeneficiados": 31010
+    },
+    {
+        "id": 94602317,
+        "dataReferencia": "01/08/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4177689.0,
+        "quantidadeBeneficiados": 30923
+    },
+    {
+        "id": 91503040,
+        "dataReferencia": "01/09/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4147214.0,
+        "quantidadeBeneficiados": 30611
+    },
+    {
+        "id": 97203277,
+        "dataReferencia": "01/10/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4170890.0,
+        "quantidadeBeneficiados": 30833
+    },
+    {
+        "id": 94503379,
+        "dataReferencia": "01/11/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4189444.0,
+        "quantidadeBeneficiados": 30734
+    },
+    {
+        "id": 98703846,
+        "dataReferencia": "01/12/2017",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4202364.0,
+        "quantidadeBeneficiados": 30943
+    },
+    {
+        "id": 103903899,
+        "dataReferencia": "01/01/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4217707.0,
+        "quantidadeBeneficiados": 31227
+    },
+    {
+        "id": 94104405,
+        "dataReferencia": "01/02/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4206935.0,
+        "quantidadeBeneficiados": 31440
+    },
+    {
+        "id": 99504335,
+        "dataReferencia": "01/03/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4240162.0,
+        "quantidadeBeneficiados": 31747
+    },
+    {
+        "id": 95704583,
+        "dataReferencia": "01/04/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4119152.0,
+        "quantidadeBeneficiados": 30765
+    },
+    {
+        "id": 91601595,
+        "dataReferencia": "01/05/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4212556.0,
+        "quantidadeBeneficiados": 31330
+    },
+    {
+        "id": 103802262,
+        "dataReferencia": "01/06/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4212040.0,
+        "quantidadeBeneficiados": 31319
+    },
+    {
+        "id": 94902450,
+        "dataReferencia": "01/07/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4490449.0,
+        "quantidadeBeneficiados": 31606
+    },
+    {
+        "id": 96302649,
+        "dataReferencia": "01/08/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4569032.0,
+        "quantidadeBeneficiados": 31992
+    },
+    {
+        "id": 99903525,
+        "dataReferencia": "01/10/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4563075.0,
+        "quantidadeBeneficiados": 31901
+    },
+    {
+        "id": 98204077,
+        "dataReferencia": "01/12/2018",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4556958.0,
+        "quantidadeBeneficiados": 31380
+    },
+    {
+        "id": 95501719,
+        "dataReferencia": "01/04/2019",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4503788.0,
+        "quantidadeBeneficiados": 30623
+    },
+    {
+        "id": 102002359,
+        "dataReferencia": "01/06/2019",
+        "municipio": {
+            "codigoIBGE": "2800308",
+            "nomeIBGE": "ARACAJU",
+            "nomeIBGEsemAcento": "ARACAJU",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 4534966.0,
+        "quantidadeBeneficiados": 30330
+    },
+    {
+        "id": 100403171,
+        "dataReferencia": "01/07/2019",
+        "municipio": {
+            "codigoIBGE": "2801702",
+            "nomeIBGE": "CRISTINÁPOLIS",
+            "nomeIBGEsemAcento": "CRISTINAPOLIS",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 686683.0,
+        "quantidadeBeneficiados": 3355
+    },
+    {
+        "id": 101902356,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 113697.0,
+        "quantidadeBeneficiados": 669
+    },
+    {
+        "id": 91802646,
+        "dataReferencia": "01/05/2016",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 113176.0,
+        "quantidadeBeneficiados": 668
+    },
+    {
+        "id": 102403064,
+        "dataReferencia": "01/06/2017",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 123277.0,
+        "quantidadeBeneficiados": 719
+    },
+    {
+        "id": 101202292,
+        "dataReferencia": "01/02/2018",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 123714.0,
+        "quantidadeBeneficiados": 769
+    },
+    {
+        "id": 104602471,
+        "dataReferencia": "01/03/2018",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 123983.0,
+        "quantidadeBeneficiados": 771
+    },
+    {
+        "id": 93502780,
+        "dataReferencia": "01/02/2019",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 127436.0,
+        "quantidadeBeneficiados": 783
+    },
+    {
+        "id": 103701791,
+        "dataReferencia": "01/10/2019",
+        "municipio": {
+            "codigoIBGE": "2801900",
+            "nomeIBGE": "CUMBE",
+            "nomeIBGEsemAcento": "CUMBE",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 122804.0,
+        "quantidadeBeneficiados": 745
+    },
+    {
+        "id": 101802587,
+        "dataReferencia": "01/05/2016",
+        "municipio": {
+            "codigoIBGE": "2802007",
+            "nomeIBGE": "DIVINA PASTORA",
+            "nomeIBGEsemAcento": "DIVINA PASTORA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 135170.0,
+        "quantidadeBeneficiados": 657
+    },
+    {
+        "id": 103103277,
+        "dataReferencia": "01/07/2016",
+        "municipio": {
+            "codigoIBGE": "2802007",
+            "nomeIBGE": "DIVINA PASTORA",
+            "nomeIBGEsemAcento": "DIVINA PASTORA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 147826.0,
+        "quantidadeBeneficiados": 650
+    },
+    {
+        "id": 99701892,
+        "dataReferencia": "01/02/2017",
+        "municipio": {
+            "codigoIBGE": "2802007",
+            "nomeIBGE": "DIVINA PASTORA",
+            "nomeIBGEsemAcento": "DIVINA PASTORA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 145481.0,
+        "quantidadeBeneficiados": 687
+    },
+    {
+        "id": 105303285,
+        "dataReferencia": "01/10/2019",
+        "municipio": {
+            "codigoIBGE": "2803005",
+            "nomeIBGE": "ITABAIANINHA",
+            "nomeIBGEsemAcento": "ITABAIANINHA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 1650112.0,
+        "quantidadeBeneficiados": 7181
+    },
+    {
+        "id": 92403355,
+        "dataReferencia": "01/11/2019",
+        "municipio": {
+            "codigoIBGE": "2803005",
+            "nomeIBGE": "ITABAIANINHA",
+            "nomeIBGEsemAcento": "ITABAIANINHA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 1646337.0,
+        "quantidadeBeneficiados": 7146
+    },
+    {
+        "id": 101603749,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 166309.0,
+        "quantidadeBeneficiados": 815
+    },
+    {
+        "id": 96301931,
+        "dataReferencia": "01/09/2016",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 160116.0,
+        "quantidadeBeneficiados": 863
+    },
+    {
+        "id": 105202429,
+        "dataReferencia": "01/10/2016",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 159584.0,
+        "quantidadeBeneficiados": 858
+    },
+    {
+        "id": 99504401,
+        "dataReferencia": "01/06/2017",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 153850.0,
+        "quantidadeBeneficiados": 825
+    },
+    {
+        "id": 102202566,
+        "dataReferencia": "01/10/2017",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 155074.0,
+        "quantidadeBeneficiados": 845
+    },
+    {
+        "id": 94801450,
+        "dataReferencia": "01/06/2018",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 155551.0,
+        "quantidadeBeneficiados": 839
+    },
+    {
+        "id": 103102814,
+        "dataReferencia": "01/10/2018",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 165063.0,
+        "quantidadeBeneficiados": 832
+    },
+    {
+        "id": 102503802,
+        "dataReferencia": "01/12/2019",
+        "municipio": {
+            "codigoIBGE": "2803104",
+            "nomeIBGE": "ITABI",
+            "nomeIBGEsemAcento": "ITABI",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 163069.0,
+        "quantidadeBeneficiados": 794
+    },
+    {
+        "id": 97503230,
+        "dataReferencia": "01/03/2016",
+        "municipio": {
+            "codigoIBGE": "2803203",
+            "nomeIBGE": "ITAPORANGA D'AJUDA",
+            "nomeIBGEsemAcento": "ITAPORANGA D'AJUDA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 787324.0,
+        "quantidadeBeneficiados": 5032
+    },
+    {
+        "id": 104601896,
+        "dataReferencia": "01/08/2016",
+        "municipio": {
+            "codigoIBGE": "2803203",
+            "nomeIBGE": "ITAPORANGA D'AJUDA",
+            "nomeIBGEsemAcento": "ITAPORANGA D'AJUDA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 872494.0,
+        "quantidadeBeneficiados": 4863
+    },
+    {
+        "id": 103402756,
+        "dataReferencia": "01/11/2016",
+        "municipio": {
+            "codigoIBGE": "2803203",
+            "nomeIBGE": "ITAPORANGA D'AJUDA",
+            "nomeIBGEsemAcento": "ITAPORANGA D'AJUDA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 891537.0,
+        "quantidadeBeneficiados": 4966
+    },
+    {
+        "id": 100403821,
+        "dataReferencia": "01/04/2017",
+        "municipio": {
+            "codigoIBGE": "2803203",
+            "nomeIBGE": "ITAPORANGA D'AJUDA",
+            "nomeIBGEsemAcento": "ITAPORANGA D'AJUDA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 831551.0,
+        "quantidadeBeneficiados": 4797
+    },
+    {
+        "id": 92404371,
+        "dataReferencia": "01/05/2017",
+        "municipio": {
+            "codigoIBGE": "2803203",
+            "nomeIBGE": "ITAPORANGA D'AJUDA",
+            "nomeIBGEsemAcento": "ITAPORANGA D'AJUDA",
+            "pais": "BRASIL",
+            "uf": {
+                "sigla": "SE",
+                "nome": "SERGIPE"
+            }
+        },
+        "tipo": {
+            "id": 1,
+            "descricao": "Bolsa Família",
+            "descricaoDetalhada": "Bolsa Família"
+        },
+        "valor": 832458.0,
+        "quantidadeBeneficiados": 4778
     }
 ]
