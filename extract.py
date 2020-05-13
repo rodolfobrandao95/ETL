@@ -44,12 +44,19 @@ def gather_data(dates, ibge_codes, save_path):
             response = r.get(uri)
             if response.status_code == 200 and response.json():
                 returned_json.append(response.json()[0])
+        except ValueError:
+            print('ValueError exception for: {}'.format(uri))
         except Exception as e:
+            blocked = True
+            while blocked:
+                response = r.get(uri)
+                blocked = False
+
             print(repr(e))
 
     with open(save_path, 'w+', encoding='utf-8') as jsonfile:
-        json_data = json.dumps(returned_json, indent=4, ensure_ascii=False)
-        jsonfile.write(json_data)
+        all_json = json.dumps(returned_json, indent=4, ensure_ascii=False)
+        jsonfile.write(all_json)
 
 
 if __name__ == '__main__':
