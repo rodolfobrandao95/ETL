@@ -7,10 +7,10 @@ import requests as r
 def get_date_range(year_range, month_range):
     dates = []
 
-    for i in range(year_range[0], year_range[1]):
-        for j in range(month_range[0], month_range[1]):
+    for year in range(year_range[0], year_range[1]):
+        for month in range(month_range[0], month_range[1]):
             dates.append(
-                "{}0{}".format(i, j) if j <= 9 else "{}{}".format(i, j))
+                "{}0{}".format(year, month) if month <= 9 else "{}{}".format(year, month))
 
     return dates
 
