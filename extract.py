@@ -15,13 +15,13 @@ def get_date_range(year_range, month_range):
     return dates
 
 
-def get_ibge_codes(file_path, filter_by_column_value=""):
+def get_ibge_codes(file_path, column_value=""):
     ibge_codes = []
 
     with open(file_path, newline='', encoding="utf-8") as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',')
-        filtered = list(filter(lambda x: filter_by_column_value in x, spamreader)
-                        ) if filter_by_column_value != "" else list(spamreader)
+        filtered = list(filter(lambda x: column_value in x, spamreader)
+                        ) if column_value != "" else list(spamreader)
 
         for arr in filtered:
             ibge_codes.append("{}{}".format(arr[1], arr[2]))
