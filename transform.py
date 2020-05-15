@@ -82,11 +82,12 @@ def get_fate_dimension(json_file_path, save_path):
 
         with open(json_file_path, "r", encoding="utf-8") as jsonfile:
             json_data = json.load(jsonfile)
-            for key in json_data:
-                TIME_DM_id = key[7:]
-                CITY_DM_id = key[0:7]
-                beneficiaries_number = json_data[key]["quantidadeBeneficiados"]
-                amount_value = json_data[key]["valor"]
+            for item in json_data:
+                TIME_DM_id = "{}{}".format(
+                    item["dataReferencia"][6:], item["dataReferencia"][3:5])
+                CITY_DM_id = item["municipio"]["codigoIBGE"]
+                beneficiaries_number = item["quantidadeBeneficiados"]
+                amount_value = item["valor"]
 
                 spamwriter.writerow(
                     [TIME_DM_id, CITY_DM_id, beneficiaries_number, amount_value])
