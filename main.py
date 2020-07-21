@@ -8,7 +8,7 @@ if __name__ == '__main__':
     # Extract:
     jobs = []
     dates = extract_layer.set_date_range((2016, 2019), (1, 12))
-    ibge_codes = extract_layer.get_ibge_codes('csv/municipios_IBGE.csv', 'SE')
+    ibge_codes = extract_layer.set_ibge_codes('csv/municipios_IBGE.csv', 'SE')
 
     for i in range(0, 10):
         process = m.Process(target=extract_layer.gather_data, args=(
@@ -24,11 +24,11 @@ if __name__ == '__main__':
     print('Extraction process complete.')
 
     # Transform:
-    transform_layer.get_time_dimension(
-        (2016, 2020), (1, 13), 'csv/time_dimension.csv')
-    transform_layer.get_city_dimension('csv/municipios_IBGE.csv',
-                                       'csv/city_dimension.csv', 'SE')
-    transform_layer.get_fate_dimension(
+    transform_layer.build_time_dimension(
+        (2016, 2019), (1, 12), 'csv/time_dimension.csv')
+    transform_layer.build_city_dimension('csv/municipios_IBGE.csv',
+                                         'csv/city_dimension.csv', 'SE')
+    transform_layer.build_fate_dimension(
         'JSON/data.json', 'csv/fate_dimension.csv')
 
     print('Transform process complete.')
