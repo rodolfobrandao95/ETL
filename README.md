@@ -4,7 +4,7 @@
 This repository has nothing to do with the federal government. Data collection and manipulation were done manually from the informations provided by the brazilian government's [transparency portal](http://www.transparencia.gov.br/).
 
 ## Presentation
-In this repository, I intend to demonstrate how the ETL process and multidimensional data modeling works for data warehouse. For this project it will be used the [__Bolsa Família__](http://www.caixa.gov.br/programas-sociais/bolsa-familia/Paginas/default.aspx) program data, provided by this [REST API](http://www.transparencia.gov.br/swagger-ui.html).
+In this repository, I intend to demonstrate how the ETL process and multidimensional data modeling works for data warehouse. For this project it will be used the [__Bolsa Família__](http://www.caixa.gov.br/programas-sociais/bolsa-familia/Paginas/default.aspx) program data, provided by its [REST API](http://www.transparencia.gov.br/swagger-ui.html).
 
 ## Motivation
 As an objective, informations about the __number of beneficiaries__, as well the __amount__ (in R$) and __reference date__, used by the program, will be consolidated.
