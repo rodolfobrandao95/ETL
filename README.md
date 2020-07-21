@@ -56,5 +56,6 @@ $ pip install multiprocessing
 $ pip install pyodbc
 $ pip install requests
 ```
+> Using the ```pip``` package installer.
 ---
 Repository created and maintained by me, [@rodolfobrandao_](https://twitter.com/rodolfobrandao_)
