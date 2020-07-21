@@ -16,7 +16,7 @@ The modeling need in this scenario is to allow these metrics to be observed in t
 + __City Dimension__: city, state and region
 
 ## Data gathering
-In order to collect information from the program, the following endpoint will be used:\
+In order to collect information, the following endpoint will be used:\
 http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno=201901&codigoIbge=5300108&pagina=1
 
 ```json
@@ -44,7 +44,7 @@ http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno
     }
 ]
 ```
-> The illustrated JSON above represents the response we get from the API. The information shown is about the city of Brasília, from 01/01/2019.
+> The illustrated JSON above represents the response we get. The displayed information is about the city of Brasília, from 01/01/2019.
 
 The given URI enables requests by passing two paramameters: ```mesAno``` (YYYYMM) and ```codigoIbge``` (state code concatenated with city code), which can be obtained from the file _CSV/municipios_IBGE.csv_.
 
