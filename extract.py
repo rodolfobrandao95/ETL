@@ -17,7 +17,7 @@ def set_date_range(year_range: tuple, month_range: tuple) -> list:
     return dates
 
 
-def get_ibge_codes(file_path: str, column_value='') -> list:
+def set_ibge_codes(file_path: str, column_value='') -> list:
     '''
     Reads a .csv file, and filters by column value, and returns
     a list with the IBGE codes in the API's endpoint format.
@@ -36,10 +36,10 @@ def get_ibge_codes(file_path: str, column_value='') -> list:
     return ibge_codes
 
 
-def gather_data(dates: list, ibge_codes: list, save_path: str):
+def gather_data(dates: list, ibge_codes: list, save_path: str) -> None:
     '''
     Collects data from the API, by passing the dates and IBGE codes
-    formatted, and saves a json file JSON file in the specified path.
+    formatted, and saves a JSON file in the specified path.
     '''
 
     uris = []
