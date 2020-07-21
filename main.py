@@ -1,14 +1,15 @@
 import extract as extract_layer
+import load as load_layer
 import transform as transform_layer
 import multiprocessing as m
 
-# Extraction:
+# Extract:
 jobs = []
 dates = extract_layer.set_date_range((2016, 2019), (1, 12))
 ibge_codes = extract_layer.get_ibge_codes("csv/municipios_IBGE.csv", "SE")
 
 for i in range(0, 10):
-    process = m.Process(target=gather_data, args=(
+    process = m.Process(target=extract_layer.gather_data, args=(
         dates, ibge_codes, "JSON/data.json"))
     jobs.append(process)
 
@@ -28,3 +29,6 @@ transform_layer.get_city_dimension("csv/municipios_IBGE.csv",
 transform_layer.get_fate_dimension("JSON/data.json", "csv/fate_dimension.csv")
 
 print("Transform process complete.")
+
+# Load:
+# TODO
