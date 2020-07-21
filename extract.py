@@ -1,14 +1,13 @@
 import csv
 import json
-import multiprocessing as m
 import requests as r
 
 
-def get_date_range(year_range, month_range):
+def set_date_range(year_range, month_range):
     dates = []
 
-    for year in range(year_range[0], year_range[1]):
-        for month in range(month_range[0], month_range[1]):
+    for year in range(year_range[0], year_range[1] - 1):
+        for month in range(month_range[0], month_range[1] - 1):
             dates.append(
                 "{}0{}".format(year, month) if month <= 9 else "{}{}".format(year, month))
 
@@ -58,22 +57,3 @@ def gather_data(dates, ibge_codes, save_path):
     with open(save_path, "w+", encoding="utf-8") as jsonfile:
         all_json = json.dumps(returned_json, indent=4, ensure_ascii=False)
         jsonfile.write(all_json)
-
-
-if __name__ == "__main__":
-    jobs = []
-    dates = get_date_range((2016, 2020), (1, 13))
-    ibge_codes = get_ibge_codes("csv/municipios_IBGE.csv", "SE")
-
-    for i in range(0, 10):
-        process = m.Process(target=gather_data, args=(
-            dates, ibge_codes, "JSON/data.json"))
-        jobs.append(process)
-
-    for job in jobs:
-        job.start()
-
-    for job in jobs:
-        job.join()
-
-    print("Extraction process complete.")

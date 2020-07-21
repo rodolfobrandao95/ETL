@@ -91,12 +91,3 @@ def get_fate_dimension(json_file_path, save_path):
 
                 spamwriter.writerow(
                     [TIME_DM_id, CITY_DM_id, beneficiaries_number, amount_value])
-
-
-if __name__ == "__main__":
-    get_time_dimension((2016, 2020), (1, 13), "csv/time_dimension.csv")
-    get_city_dimension("csv/municipios_IBGE.csv",
-                       "csv/city_dimension.csv", "SE")
-    get_fate_dimension("JSON/data.json", "csv/fate_dimension.csv")
-
-    print("Transform process complete.")
