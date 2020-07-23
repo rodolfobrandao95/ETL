@@ -47,7 +47,7 @@ http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno
 The given endpoint enables requests by passing two paramameters: ```mesAno``` (YYYYMM) and ```codigoIbge``` (state code concatenated with city code), which can be obtained from the file _CSV/municipios_IBGE.csv_.
 
 ## Requirements
-Apart of ```csv``` and ```json```, you may need the following python modules in order to run this project:
+Apart of ```csv``` and ```json```, the following python modules are required to run this project:
 + [multiprocessing](https://pypi.org/project/multiprocessing/)
 + [pyodbc](https://pypi.org/project/pyodbc/)
 + [requests](https://pypi.org/project/requests/)
