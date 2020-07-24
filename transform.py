@@ -59,14 +59,14 @@ def build_time_dimension(year_range: tuple, month_range: tuple, save_path: str) 
                     [id, year, month, bimonth, trimester, half_year])
 
 
-def build_city_dimension(file_path: str, save_path: str, column_value='') -> None:
+def build_city_dimension(reading_file: str, save_path: str, column_value='') -> None:
     '''
     Reads a .csv file containing the data about the cities
     and saves another one, in the specified path, with the proper city dimension.
     Optional keywords arguments: column_value: value of the column to be filtered.
     '''
 
-    with open(save_path, 'w+', newline='', encoding='utf-8') as csvfile:
+    with open(reading_file, 'w+', newline='', encoding='utf-8') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',',
                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
 
@@ -85,7 +85,7 @@ def build_city_dimension(file_path: str, save_path: str, column_value='') -> Non
                 spamwriter.writerow([id, city_name, city_region, state_name])
 
 
-def build_fate_dimension(json_file_path: str, save_path: str) -> None:
+def build_fate_dimension(reading_file: str, save_path: str) -> None:
     '''
     Reads a .json file containing the API's data and saves a .csv file,
     in the specified path, with the proper fate dimension.
@@ -98,7 +98,7 @@ def build_fate_dimension(json_file_path: str, save_path: str) -> None:
         spamwriter.writerow(['TIME_DM_id', 'CITY_DM_id',
                              'beneficiaries_number', 'amount_value'])
 
-        with open(json_file_path, 'r', encoding='utf-8') as jsonfile:
+        with open(reading_file, 'r', encoding='utf-8') as jsonfile:
             json_data = json.load(jsonfile)
             for item in json_data:
                 TIME_DM_id = '{}{}'.format(

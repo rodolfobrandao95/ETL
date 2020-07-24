@@ -21,7 +21,7 @@ if __name__ == '__main__':
     for job in jobs:
         job.join()
 
-    print('Extraction process complete.')
+    print('Extract process complete.')
 
     # Transform:
     transform_layer.build_time_dimension(
@@ -34,4 +34,7 @@ if __name__ == '__main__':
     print('Transform process complete.')
 
     # Load:
-    # TODO
+    load_layer.generate_dml_from_csv('csv/city_dimension.csv',
+                                     'sql/DML_city_dm.sql', 'city_dm', 'dbo')
+
+    print('Load process complete.')

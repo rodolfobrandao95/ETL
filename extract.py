@@ -17,7 +17,7 @@ def set_date_range(year_range: tuple, month_range: tuple) -> list:
     return dates
 
 
-def set_ibge_codes(file_path: str, column_value='') -> list:
+def set_ibge_codes(reading_file: str, column_value='') -> list:
     '''
     Reads a .csv file, and filters by column value, and returns
     a list with the IBGE codes in the API's endpoint format.
@@ -25,7 +25,7 @@ def set_ibge_codes(file_path: str, column_value='') -> list:
     '''
 
     ibge_codes = []
-    with open(file_path, newline='', encoding='utf-8') as csvfile:
+    with open(reading_file, newline='', encoding='utf-8') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',')
         filtered = list(filter(lambda x: column_value in x, spamreader)
                         ) if column_value != '' else list(spamreader)
