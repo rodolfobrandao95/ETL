@@ -37,4 +37,10 @@ if __name__ == '__main__':
     load_layer.generate_dml_from_csv('csv/city_dimension.csv',
                                      'sql/DML_city_dm.sql', 'city_dm', 'dbo')
 
+    load_layer.generate_dml_from_csv(
+        'csv/time_dimension.csv', 'sql/DML_time_dm.sql', 'time_dm', 'dbo')
+
+    load_layer.generate_dml_from_csv(
+        'csv/fate_dimension.csv', 'sql/DML_fate_dm.sql', 'fate_dm', 'dbo')
+
     print('Load process complete.')
