@@ -17,7 +17,7 @@ CREATE TABLE [TIME_DM]
     month_number INTEGER NOT NULL,
     bimonth_number INTEGER NOT NULL,
     quarter_number INTEGER NOT NULL,
-    semester_number INTEGER NOT NULL
+    half_year_number INTEGER NOT NULL
 );
 
 ALTER TABLE [TIME_DM]
