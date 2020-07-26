@@ -45,18 +45,18 @@ def build_time_dimension(year_range: tuple, month_range: tuple, save_path: str) 
                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
 
         spamwriter.writerow(
-            ['id', 'year', 'month', 'bimonth', 'trimester', 'half_year'])
+            ['id', 'year', 'month_number', 'bimonth_number', 'quarter_number', 'half_year_number'])
 
-        for year in range(year_range[0], year_range[1] - 1):
-            for month in range(month_range[0], month_range[1] - 1):
+        for year in range(year_range[0], year_range[1] + 1):
+            for month in range(month_range[0], month_range[1] + 1):
                 id = '{}0{}'.format(
                     year, month) if month <= 9 else '{}{}'.format(year, month)
                 bimonth = month // 2 if month % 2 == 0 else (month // 2) + 1
-                trimester = month // 3 if month % 3 == 0 else (month // 3) + 1
+                quarter = month // 3 if month % 3 == 0 else (month // 3) + 1
                 half_year = month // 6 if month % 6 == 0 else (month // 6) + 1
 
                 spamwriter.writerow(
-                    [id, year, month, bimonth, trimester, half_year])
+                    [id, year, month, bimonth, quarter, half_year])
 
 
 def build_city_dimension(reading_file: str, save_path: str, column_value='') -> None:
@@ -66,23 +66,26 @@ def build_city_dimension(reading_file: str, save_path: str, column_value='') -> 
     Optional keywords arguments: column_value: value of the column to be filtered.
     '''
 
-    with open(reading_file, 'w+', newline='', encoding='utf-8') as csvfile:
-        spamwriter = csv.writer(csvfile, delimiter=',',
+    with open(save_path, 'w+', newline='', encoding='utf-8') as saving_csvfile:
+        spamwriter = csv.writer(saving_csvfile, delimiter=',',
                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
 
-        spamwriter.writerow(['id', 'city_name', 'city_region', 'state_name'])
+        spamwriter.writerow(
+            ['id', 'city_name', 'state_initials', 'state_region'])
 
-        with open(file_path, newline='', encoding='utf-8') as csvfile:
-            spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+        with open(reading_file, newline='', encoding='utf-8') as reading_csvfile:
+            spamreader = csv.reader(
+                reading_csvfile, delimiter=',', quotechar='|')
             filtered = list(filter(lambda x: column_value in x, spamreader)
                             ) if column_value != '' else list(spamreader)
 
             for row in filtered:
                 id = '{}{}'.format(row[1], row[2])
-                city_name = row[3]
-                city_region = state_regions[row[0]]
-                state_name = row[0]
-                spamwriter.writerow([id, city_name, city_region, state_name])
+                city_name = row[3].replace("'", '', 1)
+                state_region = state_regions[row[0]]
+                state_initials = row[0]
+                spamwriter.writerow(
+                    [id, city_name, state_initials, state_region])
 
 
 def build_fate_dimension(reading_file: str, save_path: str) -> None:
