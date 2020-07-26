@@ -26,21 +26,59 @@ if __name__ == '__main__':
     # Transform:
     transform_layer.build_time_dimension(
         (2016, 2019), (1, 12), 'csv/time_dimension.csv')
-    transform_layer.build_city_dimension('csv/municipios_IBGE.csv',
-                                         'csv/city_dimension.csv', 'SE')
+
+    transform_layer.build_city_dimension(
+        'csv/municipios_IBGE.csv', 'csv/city_dimension.csv', column_value='SE')
+
     transform_layer.build_fate_dimension(
         'JSON/data.json', 'csv/fate_dimension.csv')
 
     print('Transform process complete.')
 
-    # Load:
-    load_layer.generate_dml_from_csv('csv/city_dimension.csv',
-                                     'sql/DML_city_dm.sql', 'city_dm', 'dbo')
+    # # Load:
+    database_info = {
+        'pyodbc_drive': 'ODBC Driver 17 for SQL Server',
+        'server': 'RODOLFO-PC',
+        'database': 'etl',
+        'username': '',
+        'password': ''
+    }
 
-    load_layer.generate_dml_from_csv(
-        'csv/time_dimension.csv', 'sql/DML_time_dm.sql', 'time_dm', 'dbo')
+    table_info = {
+        0: {
+            'schema': 'dbo',
+            'name': 'fate_dm',
+            'constraints': [
+                'fate_dm_pk',
+                'city_dm_fate_dm_fk',
+                'time_dm_fate_dm_fk'
+            ]
+        },
+        1: {
+            'schema': 'dbo',
+            'name': 'time_dm',
+            'constraints': [
+                'time_dm_pk'
+            ]
+        },
+        2: {
+            'schema': 'dbo',
+            'name': 'city_dm',
+            'constraints': [
+                'city_dm_pk'
+            ]
+        }
+    }
 
-    load_layer.generate_dml_from_csv(
-        'csv/fate_dimension.csv', 'sql/DML_fate_dm.sql', 'fate_dm', 'dbo')
+    load_layer.build_database(database_info, 'sql/star_model.sql')
+
+    load_layer.load_database('csv/time_dimension.csv',
+                             database_info, 'time_dm', schema='dbo')
+
+    load_layer.load_database('csv/city_dimension.csv',
+                             database_info, 'city_dm', schema='dbo')
+
+    load_layer.load_database('csv/fate_dimension.csv',
+                             database_info, 'fate_dm', schema='dbo')
 
     print('Load process complete.')
