@@ -5,12 +5,12 @@ import requests as r
 
 def set_date_range(year_range: tuple, month_range: tuple) -> list:
     '''
-    Returns a list with year and month format as YYYYMM.
+    Returns a list containing a year and month set in YYYYMM format.
     '''
 
     dates = []
-    for year in range(year_range[0], year_range[1] - 1):
-        for month in range(month_range[0], month_range[1] - 1):
+    for year in range(year_range[0], year_range[1] + 1):
+        for month in range(month_range[0], month_range[1] + 1):
             dates.append(
                 '{}0{}'.format(year, month) if month <= 9 else '{}{}'.format(year, month))
 
