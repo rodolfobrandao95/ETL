@@ -6,11 +6,11 @@
 In this repository, I intend to demonstrate how the ETL process and multidimensional data modeling works for data warehouse, by making use of the [__Bolsa Família__](http://www.caixa.gov.br/programas-sociais/bolsa-familia/Paginas/default.aspx) program data, provided by its [REST API](http://www.transparencia.gov.br/swagger-ui.html), our datasource, to handle the data and populate a simple SQL Server database.
 
 ## Motivation
-As an objective, informations about the __number of beneficiaries__, as well the __amount__ (in R$) and __reference date__, used by the program, will be consolidated in our __fate__ dimension.
+As an objective, informations about the __number of beneficiaries__, as well the __amount__ (in R$) and the __reference date__, used by the program, will be consolidated in our __fate__ dimension.
 
 The modeling need in this scenario is to allow these metrics to be observed in two aspects:
-+ __Time Dimension__: monthly, bimonthly, quarterly and half-yearly
-+ __Spatial Dimension__: city, state and region
++ __Temporal__: monthly, bimonthly, quarterly and half-yearly
++ __Spatial__: cities, states and regions
 
 ## Data gathering
 In order to collect information, the following endpoint, for example, will be used:\
