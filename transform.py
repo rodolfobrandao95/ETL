@@ -33,7 +33,7 @@ state_regions = {
 }
 
 
-def build_time_dimension(year_range: tuple, month_range: tuple, save_path: str) -> None:
+def build_temporal_dimension(year_range: tuple, month_range: tuple, save_path: str) -> None:
     '''
     Writes a .csv file containing the data about time dimension,
     based on the year and month range defined,
@@ -59,7 +59,7 @@ def build_time_dimension(year_range: tuple, month_range: tuple, save_path: str) 
                     [id, year, month, bimonth, quarter, half_year])
 
 
-def build_city_dimension(reading_file: str, save_path: str, column_value='') -> None:
+def build_spatial_dimension(reading_file: str, save_path: str, column_value='') -> None:
     '''
     Reads a .csv file containing the data about the cities
     and saves another one, in the specified path, with the proper city dimension.
