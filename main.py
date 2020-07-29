@@ -35,7 +35,7 @@ if __name__ == '__main__':
 
     print('Transform process complete.')
 
-    # # Load:
+    # Load:
     database_info = {
         'pyodbc_drive': 'ODBC Driver 17 for SQL Server',
         'server': 'RODOLFO-PC',
