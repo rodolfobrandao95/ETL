@@ -24,10 +24,10 @@ if __name__ == '__main__':
     print('Extract process complete.')
 
     # Transform:
-    transform_layer.build_time_dimension(
+    transform_layer.build_temporal_dimension(
         (2016, 2019), (1, 12), 'csv/time_dimension.csv')
 
-    transform_layer.build_city_dimension(
+    transform_layer.build_spatial_dimension(
         'csv/municipios_IBGE.csv', 'csv/city_dimension.csv', column_value='SE')
 
     transform_layer.build_fate_dimension(
