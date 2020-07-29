@@ -22,9 +22,9 @@ def build_database(database_info: dict, reading_file: str) -> None:
 
         print('Database built.')
     except pyodbc.Error as e:
-        print(e)
+        print(repr(e))
     except Exception as e:
-        print(e)
+        print(repr(e))
 
 
 def load_database(reading_file: str, database_info: dict, table_name: str, schema='') -> None:
@@ -60,9 +60,9 @@ def load_database(reading_file: str, database_info: dict, table_name: str, schem
             connection.commit()
             connection.close()
     except pyodbc.Error as e:
-        print(e)
+        print(repr(e))
     except Exception as e:
-        print(e)
+        print(repr(e))
 
 
 def clear_database(database_info: dict, table_info: dict) -> None:
@@ -89,9 +89,9 @@ def clear_database(database_info: dict, table_info: dict) -> None:
 
         print('Database cleaned.')
     except pyodbc.Error as e:
-        print(e)
+        print(repr(e))
     except Exception as e:
-        print(e)
+        print(repr(e))
 
 
 def drop_database(database_info: dict, table_info: dict) -> None:
@@ -116,6 +116,6 @@ def drop_database(database_info: dict, table_info: dict) -> None:
 
         print('Database droped.')
     except pyodbc.Error as e:
-        print(e)
+        print(repr(e))
     except Exception as e:
-        print(e)
+        print(repr(e))
