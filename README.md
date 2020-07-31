@@ -41,7 +41,7 @@ http://www.transparencia.gov.br/api-de-dados/bolsa-familia-por-municipio/?mesAno
     }
 ]
 ```
-> The illustrated JSON above represents the response we get. The displayed information is about the city of Brasília, from 01/01/2019.
+> _The illustrated JSON above represents the response we get. The displayed information is about the city of Brasília, federal district of Brazil, from 01/01/2019._
 
 The given endpoint enables requests by passing two paramameters: `mesAno` (YYYYMM) and `codigoIbge` (state code concatenated with city code), which can be obtained from the file _CSV/municipios_IBGE.csv_.
 
@@ -55,6 +55,6 @@ $ pip install multiprocessing
 $ pip install pyodbc
 $ pip install requests
 ```
-> Using the `pip` package installer.
+> _Using the `pip` package installer._
 ---
 Repository created and maintained by me, [@rodolfobrandao_](https://twitter.com/rodolfobrandao_)
