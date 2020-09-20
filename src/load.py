@@ -77,8 +77,8 @@ def clear_database(database_info: dict, table_info: dict) -> None:
         cursor = connection.cursor()
 
         for key, value in table_info:
-            drop_statement = 'DELETE TABLE ' + (table['name'] + ';' if table['schema'] == '' else '{}.{};'.format(
-                table['schema'], table['name']))
+            drop_statement = 'DELETE TABLE ' + (table_info['name'] + ';' if table_info['schema'] == '' else '{}.{};'.format(
+                table_info['schema'], table_info['name']))
             cursor.execute(drop_statement)
             print(drop_statement)
 
