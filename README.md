@@ -57,4 +57,4 @@ $ pip install requests
 ```
 > _Using the `pip` package installer._
 ---
-Repository created and maintained by me, [@dflooor](https://twitter.com/dflooor)
+Repository created and maintained by me, [Rodolfo Brandão](https://twitter.com/dflooor)
